@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/LeagueBuilderBackend.iml" filepath="$PROJECT_DIR$/.idea/LeagueBuilderBackend.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../../../mod5/Project/bees-backend/.idea/bees-backend.iml" filepath="$PROJECT_DIR$/../../../../mod5/Project/bees-backend/.idea/bees-backend.iml" />
     </modules>
   </component>
 </project>
