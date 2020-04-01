@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Rails LeagueBuilderBackend: test" uuid="55c9d2a9-50a7-465b-b63a-86974ee93a7c">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/LeagueBuilder_test</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails LeagueBuilderBackend: production" uuid="8e0f4bc5-9210-4a88-9d1e-9a2317b23c25">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/LeagueBuilder_production</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails LeagueBuilderBackend: development" uuid="f91a75f6-7ebe-48ae-89c7-49905c0bd500">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/LeagueBuilder_development</jdbc-url>
+    </data-source>
+  </component>
+</project>
