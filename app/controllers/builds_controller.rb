@@ -1,7 +1,9 @@
 class BuildsController < ApplicationController
 
+  skip_before_action :authorized, only: [:index, :show]
+
   def create
-    build = Build.create(champion: params[:champion], inventory: params[:inventory], user: User.first)
+    build = Build.create(champion: params[:champion], inventory: params[:inventory], user: @user)
 
     render json: build.to_json
   end

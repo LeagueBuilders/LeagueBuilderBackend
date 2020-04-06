@@ -43,3 +43,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'rest-client'
 gem 'fast_jsonapi'
+
+# github security recommendation
+gem "actionview", ">= 6.0.2.2"
+
